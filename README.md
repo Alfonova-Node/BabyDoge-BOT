@@ -15,7 +15,7 @@ Automate your BabyDoge PAWs Bot experience with this powerful Node.js bot!
 Before you begin, ensure you have met the following requirements:
 
 - [Node.js](https://nodejs.org/) (v14 or higher) installed on your machine
-- A BabyDoge account - [Register here via Telegram](https://t.me/BabyDogePAWS_Bot?start=r_6944804952)
+- A BabyDoge account - [Register here via Telegram](https://t.me/BabyDogePAWS_Bot/game?startapp=r_1716246979)
   - Click on the link above to open the BabyDoge PAWS Bot in Telegram
   - Start the bot and follow the registration process in Telegram
 - Basic knowledge of using command line interfaces
